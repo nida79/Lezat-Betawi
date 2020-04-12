@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650450889281",
+    "firebase_url": "https://skripsi-ffa68.firebaseio.com",
+    "project_id": "skripsi-ffa68",
+    "storage_bucket": "skripsi-ffa68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650450889281:android:37cf0cf5d77d56f37474c0",
+        "android_client_info": {
+          "package_name": "com.ta.betawifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650450889281-hpt5mt5u2jfp544elovsckin0679b8qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQPSTEToxYaWGldGnNHIt8THFRGlqgJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650450889281-hpt5mt5u2jfp544elovsckin0679b8qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
